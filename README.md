@@ -45,6 +45,8 @@
 
 </div>
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/твой_id)
+
 ## 🎯 Чем занимаюсь сейчас
 
 - 🔭 Работаю над **своими pet-проектами на React**
