@@ -1,9 +1,8 @@
 <div align="center">
 
 ## 📊 Моя статистика
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NezonFX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezonFX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7"/>
+<img height="170em" src="https://github-readme-stats.shion.dev/api?username=NezonFX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NezonFX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
