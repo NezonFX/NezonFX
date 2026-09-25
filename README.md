@@ -18,7 +18,7 @@
 
 ## 📈 График активности
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NezonFX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF&v=2" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=NezonFX&theme=tokyo-night&bg_color=0D1117" width="100%"/>
 
 </div>
 
@@ -43,8 +43,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ruqxfq3tplzv6x4ymzd5bwb7ta)
 
 ## 🎯 Чем занимаюсь сейчас
 
