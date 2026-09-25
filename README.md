@@ -18,7 +18,7 @@
 
 ## 📈 График активности
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NezonFX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NezonFX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF&v=2" width="100%"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 </div>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/твой_id)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ruqxfq3tplzv6x4ymzd5bwb7ta)
 
 ## 🎯 Чем занимаюсь сейчас
 
